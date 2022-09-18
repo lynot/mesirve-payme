@@ -1,5 +1,5 @@
 export const metaTags = (name) => {
-  let title = "PayLink | Pay or donate to " + name;
+  let title = "Pay or donate to " + name;
 
   // Set title tag
   document.title = title;
