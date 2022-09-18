@@ -3,7 +3,7 @@
 
   "properties": {
     "name": "Leynier Gutiérrez González",
-    "description": "CS graduate • Head of Engineering at <a href=\"https://educup.io\">EducUp</a> • CTO at MeSirve • Professor at MatCom",
+    "description": "CS graduate • Head of Engineering at <a href=\"https://educup.io\" target=\"_blank\" class=\"paylink-link text-decoration-none\">EducUp</a> • CTO at MeSirve • Professor at MatCom",
     "alt": "Photo of Leynier Gutiérrez González",
     "hero": "./images/avatar.png"
   },
