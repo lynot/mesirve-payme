@@ -5,7 +5,7 @@ import SocialMedia from "./components/SocialMedia";
 import { metaTags } from "./js/main";
 import Config from "./paylink.config.json";
 
-metaTags(Config.properties.name);
+metaTags(Config.properties.name, Config.properties.description);
 
 const App = () => {
   return (
@@ -15,7 +15,7 @@ const App = () => {
           src={Config.properties.hero}
           alt={Config.properties.alt}
           name={Config.properties.name}
-          description={Config.properties.description}
+          bio={Config.properties.bio}
         />
 
         <section
