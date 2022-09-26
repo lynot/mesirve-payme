@@ -113,8 +113,8 @@
       "img": "./images/payments/trx.svg"
     },
     {
-      "id": "usdt",
-      "label": "USDT",
+      "id": "usdt-tcr20",
+      "label": "USDT (TCR20)",
       "value": "TNn3eBE5A7nA3iY9oG1y6gfuKzcXQXZbKh",
       "img": "./images/payments/usdt.svg"
     },
@@ -132,8 +132,20 @@
     },
     {
       "id": "card",
+      "label": "TropiPay",
+      "value": "https://tppay.me/l8iuj6y3",
+      "img": "./images/payments/tropipay.svg"
+    },
+    {
+      "id": "card",
       "label": "CUP",
       "value": "9224 9598 7939 6073",
+      "img": "./images/payments/card.svg"
+    },
+    {
+      "id": "card",
+      "label": "MLC",
+      "value": "9225 9598 7074 2639",
       "img": "./images/payments/card.svg"
     },
     {
